@@ -4,6 +4,8 @@ body{
     display: flex;
     align-items: center;
     flex-direction: column;
+    background-color: black;
+    color: white;
 }
 .links{
     height:max-content;
@@ -17,5 +19,6 @@ span{
     padding-bottom: 3%;
     margin-left: 1%;
     padding-left: 1%;
-    background-color: rgb(220, 246, 255);
+    color: white;
+    border: 2px solid white;
 }
