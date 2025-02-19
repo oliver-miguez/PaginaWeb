@@ -2,4 +2,13 @@ h1{
     display: flex;
     justify-content: center;
     align-items: center;
+    
 }
+body{
+    background-color: black;
+}
+
+.color{
+    color: white;
+}
+
