@@ -1,6 +1,16 @@
-.Cuerpo{
-    width: 800px;
-    height: 900px;
+
+body{
     background-color: #FFC30F;
+    color: white;
+    display: flex;
+    justify-content: center;
 }
+
+.pixelify-sans-text {
+    font-family: "Pixelify Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    width: 280px;
+  }
 
