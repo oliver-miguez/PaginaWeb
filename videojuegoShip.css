@@ -1,6 +1,6 @@
 
 body{
-    background-color: black;
+    background-color: #FFC30F;
     color: white;
     display: flex;
     justify-content: center;
@@ -13,4 +13,4 @@ body{
     font-style: normal;
     width: 280px;
   }
- 
+
